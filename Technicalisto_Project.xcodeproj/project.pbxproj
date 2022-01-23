@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		105EA15226EB84F500638DE4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 105EA15126EB84F500638DE4 /* ViewController.swift */; };
-		10A1BA33279DE22700DD50F7 /* screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 10A1BA32279DE22700DD50F7 /* screen.png */; };
+		10A1BA35279DE4B300DD50F7 /* screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 10A1BA34279DE4B300DD50F7 /* screen.png */; };
 		10C288F126CEEC9E000724E6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10C288F026CEEC9E000724E6 /* AppDelegate.swift */; };
 		10C288F326CEEC9E000724E6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10C288F226CEEC9E000724E6 /* SceneDelegate.swift */; };
 		10C288F826CEEC9E000724E6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 10C288F626CEEC9E000724E6 /* Main.storyboard */; };
@@ -22,7 +22,7 @@
 		00119B5F3C69B23AD2BFB9C1 /* Pods-Technicalisto_Project.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Technicalisto_Project.release.xcconfig"; path = "Target Support Files/Pods-Technicalisto_Project/Pods-Technicalisto_Project.release.xcconfig"; sourceTree = "<group>"; };
 		0B4CC572F46CCB64BEF869EE /* Pods_Technicalisto_Project.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Technicalisto_Project.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		105EA15126EB84F500638DE4 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		10A1BA32279DE22700DD50F7 /* screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screen.png; sourceTree = "<group>"; };
+		10A1BA34279DE4B300DD50F7 /* screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screen.png; sourceTree = "<group>"; };
 		10C288ED26CEEC9E000724E6 /* Technicalisto_Project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Technicalisto_Project.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		10C288F026CEEC9E000724E6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		10C288F226CEEC9E000724E6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,7 +49,7 @@
 		10C288E426CEEC9D000724E6 = {
 			isa = PBXGroup;
 			children = (
-				10A1BA32279DE22700DD50F7 /* screen.png */,
+				10A1BA34279DE4B300DD50F7 /* screen.png */,
 				10C288EF26CEEC9E000724E6 /* Technicalisto_Project */,
 				10C288EE26CEEC9E000724E6 /* Products */,
 				7620AF0E90C3A0014AD56D70 /* Pods */,
@@ -157,7 +157,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				10C288FD26CEEC9F000724E6 /* LaunchScreen.storyboard in Resources */,
-				10A1BA33279DE22700DD50F7 /* screen.png in Resources */,
+				10A1BA35279DE4B300DD50F7 /* screen.png in Resources */,
 				10C288FA26CEEC9F000724E6 /* Assets.xcassets in Resources */,
 				10C2890526CEECAB000724E6 /* README.md in Resources */,
 				10C288F826CEEC9E000724E6 /* Main.storyboard in Resources */,
