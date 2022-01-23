@@ -49,6 +49,7 @@
 		10C288E426CEEC9D000724E6 = {
 			isa = PBXGroup;
 			children = (
+				10A1BA32279DE22700DD50F7 /* screen.png */,
 				10C288EF26CEEC9E000724E6 /* Technicalisto_Project */,
 				10C288EE26CEEC9E000724E6 /* Products */,
 				7620AF0E90C3A0014AD56D70 /* Pods */,
@@ -67,7 +68,6 @@
 		10C288EF26CEEC9E000724E6 /* Technicalisto_Project */ = {
 			isa = PBXGroup;
 			children = (
-				10A1BA32279DE22700DD50F7 /* screen.png */,
 				10C2890426CEECAB000724E6 /* README.md */,
 				105EA15126EB84F500638DE4 /* ViewController.swift */,
 				10C288F026CEEC9E000724E6 /* AppDelegate.swift */,
