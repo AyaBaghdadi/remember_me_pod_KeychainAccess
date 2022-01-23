@@ -10,7 +10,7 @@
   
 ```
 
-![xcworkspace](screen.png)
+![xcworkspace](scr.png)
 
 2. Try
 
